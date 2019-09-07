@@ -1,6 +1,6 @@
 # Image Segmentation
 
-This project consists on a program written in C++ which purpose is to segment the pixels of an image, that is, classify them as foreground or background pixels. I implemented Dinic's Algorithm to solve this problem.
+This project consists of a program written in C++ which purpose is to segment the pixels of an image, that is, classify them as foreground or background pixels. I implemented Dinic's Algorithm to solve this problem.
 
 ## Getting Started
 
